@@ -1,0 +1,1 @@
+wget --no-check-certificate --header="Accept: text/html" --user-agent="Mozilla/5.0 (X11; Linux amd64; rv:32.0b4) Gecko/20140804164216 ArchLinux KDE Firefox/32.0b4" --referer=http://www.google.com -r --no-check-certificate https://web -e robots=off -k
